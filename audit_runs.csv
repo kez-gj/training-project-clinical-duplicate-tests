@@ -1,0 +1,3 @@
+run_date,total_dup_tests,total_dup_costs,summary_text
+2025-09-20T13:01:11.400265,150,1302.82,This audit shows a small proportion of duplicate tests. Most duplicates ate under 56 days.
+2025-09-20T13:01:36.852875,150,1302.82,This audit shows a small proportion of duplicate tests. Most duplicates ate under 56 days.

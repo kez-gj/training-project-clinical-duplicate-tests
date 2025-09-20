@@ -1,0 +1,19 @@
+{
+  "summary": "This audit shows a small proportion of duplicate tests. Most duplicates ate under 56 days.",
+  "findings": [
+    {
+      "finding": "Duplicate FBC tests",
+      "metric": "count",
+      "value": 42
+    },
+    {
+      "finding": "Duplicate Lipid tests",
+      "metric": "count",
+      "value": 17
+    }
+  ],
+  "recommendations": [
+    "Review repeat tests within 56 days before ordering.",
+    "Educate staff on test scheduling protocols."
+  ]
+}
